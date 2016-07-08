@@ -1,0 +1,11 @@
+{
+  "name": "othello",
+  "version": "1.0.0",
+  "description": "Javascript implementation of othello player",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andy Peterson",
+  "license": "ISC"
+}
